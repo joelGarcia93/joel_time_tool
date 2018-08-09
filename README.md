@@ -20,7 +20,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+Joelg93ViewTimeTool::Renderer.copyright 'Joel Garcia', 'Todos los derechos reservados'
+```
+
 
 ## Development
 
