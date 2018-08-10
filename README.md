@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-Joelg93ViewTimeTool::Renderer.copyright 'Joel Garcia', 'Todos los derechos reservados'
+JoelTimeTool::Renderer.copyright 'Joel Garcia', 'Todos los derechos reservados'
 ```
 
 
